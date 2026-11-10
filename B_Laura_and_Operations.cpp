@@ -1,7 +1,8 @@
 /*
-https://codeforces.com/problemset/problem/1818/A
+ Problem: B. Laura and Operations
+ Contest: Codeforces
+ URL: https://codeforces.com/problemset/problem/1900/B
 */
-
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
